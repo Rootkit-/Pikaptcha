@@ -4,9 +4,9 @@ from setuptools import setup
 
 DIST_NAME = 'Pikaptcha'
 VERSION = 'v0.1'
-AUTHOR = 'sriyegna'
+AUTHOR = 'Rootkit-'
 EMAIL = 'sriyegna@gmail.com'
-GITHUB_USER = 'sriyegna'
+GITHUB_USER = 'Rootkit-'
 GITHUB_URL = 'https://github.com/{GITHUB_USER}/{DIST_NAME}'.format(**locals())
 
 # Get the long description from the README file
